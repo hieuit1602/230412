@@ -2,4 +2,12 @@ Them dong 1 vao file 2.txt
 .
 .
 .
+<<<<<<< HEAD
 Them dong 2 vao file 2.txt
+=======
+Them dong 2 vao file 2.txt
+.
+.
+Them dong 3 vao file 2.txt . Nhanh Beta
+>>>>>>> BETA
+
