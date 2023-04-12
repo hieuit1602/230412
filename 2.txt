@@ -11,3 +11,9 @@ Them dong 2 vao file 2.txt
 Them dong 3 vao file 2.txt . Nhanh Beta
 >>>>>>> BETA
 
+
+.
+.
+.
+them dong 4 
+
